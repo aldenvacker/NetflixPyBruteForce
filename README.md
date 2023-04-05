@@ -126,8 +126,6 @@ For this project, you need the following prerequisites :
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
 1. Install git 
 
    Windows : https://git-scm.com/download/win
